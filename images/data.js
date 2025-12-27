@@ -1,1 +1,1 @@
-console.log("this file section contain images");
+console.log("version12");
